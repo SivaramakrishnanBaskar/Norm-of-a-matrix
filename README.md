@@ -18,7 +18,7 @@ Developed By: Sivaramakrishnan B
 Register Number: 212222110044
 ```
 
-# 1-Norm of a Matrix
+## 1-Norm of a Matrix
 ```
 import numpy as np
 mat=np.array(eval(input()))
@@ -27,7 +27,7 @@ Norm_of_matrix="{:.2f}".format(ans)
 print(Norm_of_matrix)
 ```
 
-# 2-Norm of a Matrix
+## 2-Norm of a Matrix
 ```
 import numpy as np
 
@@ -37,7 +37,7 @@ Norm_of_matrix="{:.2f}".format(ans)
 print(Norm_of_matrix)
 ```
 
-# Infinity Norm of a Matrix
+## Infinity Norm of a Matrix
 ```
 import numpy as np
 
@@ -53,7 +53,6 @@ print(Norm_of_matrix)
 
 ### 2-Norm of a Matrix
 ![image](https://github.com/SivaramakrishnanBaskar/Norm-of-a-matrix/assets/119476322/3a063c43-96b6-4f04-b3ee-6f6c1f35f5da)
-
 
 ### Infinity Norm of a Matrix
 ![image](https://github.com/SivaramakrishnanBaskar/Norm-of-a-matrix/assets/119476322/1d3978d9-80d8-4405-a6c5-cd0aafea35b7)
