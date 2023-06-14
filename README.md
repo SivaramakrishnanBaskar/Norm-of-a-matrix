@@ -46,6 +46,17 @@ ans=np.linalg.norm(mat,np.inf)
 Norm_of_matrix="{:.2f}".format(ans)
 print(Norm_of_matrix)
 ```
+## Program Statement:
+
+### 1-Norm of a Matrix
+![image](https://github.com/SivaramakrishnanBaskar/Norm-of-a-matrix/assets/119476322/366c7e29-9eb8-4312-ba09-3a01ea2c75a0)
+
+### 2-Norm of a Matrix
+![image](https://github.com/SivaramakrishnanBaskar/Norm-of-a-matrix/assets/119476322/f7625c66-c1ca-451a-a73e-9079e1f90216)
+
+### 3-Infinity Norm of a Matrix
+![image](https://github.com/SivaramakrishnanBaskar/Norm-of-a-matrix/assets/119476322/7df90eed-c662-4423-9d6f-53d37cb49613)
+
 ## Output:
 
 ### 1-Norm of a Matrix
